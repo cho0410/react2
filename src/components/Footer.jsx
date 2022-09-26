@@ -10,27 +10,27 @@ function Footer(props) {
       <div className="footer__inner container">
         <div className="footer__menu">
           <div>
-            <h3>사이트</h3>
+            <h3>site</h3>
             <ul></ul>
           </div>
           <div>
-            <h3>헤더 유형</h3>
+            <h3>header</h3>
             <ul></ul>
           </div>
           <div>
-            <h3>슬라이드 유형</h3>
+            <h3>slider</h3>
             <ul></ul>
           </div>
           <div>
-            <h3>이미지 유형</h3>
+            <h3>image</h3>
             <ul></ul>
           </div>
           <div>
-            <h3>카드 유형</h3>
+            <h3>card</h3>
             <ul></ul>
           </div>
           <div>
-            <h3>푸터 유형</h3>
+            <h3>footer</h3>
             <ul></ul>
           </div>
         </div>
